@@ -8,7 +8,7 @@ I have successfully completed the task. Please find the video demonstration of t
 
 Video Link: https://drive.google.com/file/d/1ngSnNuRucK8CiRcMCS_KKWVIr8d0FCZG/view?usp=drivesdk
 
-Live Demo: 
+Live Demo: https://frontend-assessment-sham-roy-pum5.vercel.app/
 
 I hope you find the implementation aligned with your expectations. I’ve focused on clean, maintainable code and an intuitive UI/UX as per the requirements.
 Looking forward to your feedback and the next steps.
