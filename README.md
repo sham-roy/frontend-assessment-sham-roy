@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+Dear Team at Green Letter Technologies,
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Thank you for the opportunity to complete the assignment for the Frontend Developer role.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I have successfully completed the task. Please find the video demonstration of the project at the link below:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Video Link: https://drive.google.com/file/d/1ngSnNuRucK8CiRcMCS_KKWVIr8d0FCZG/view?usp=drivesdk
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Live Demo: 
 
-## Learn More
+I hope you find the implementation aligned with your expectations. I’ve focused on clean, maintainable code and an intuitive UI/UX as per the requirements.
+Looking forward to your feedback and the next steps.
 
-To learn more about Next.js, take a look at the following resources:
+Thank you for your time and consideration.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Best regards,
+Sham Roy
+Frontend Developer
+sy.royce@hotmail.com
++91-7025825359
+https://www.syroyce.in
+https://www.linkedin.com/in/sham-roy/
