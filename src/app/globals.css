@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@tailwind utilities;
 
 :root {
   --background: #ffffff;
@@ -23,4 +24,22 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .bg-radial-blue-neutral {
+    background: 
+      radial-gradient(132.62% 132.62% at 50% 4.3%, #40A3FF 0%, rgba(0, 53, 102, 0.1) 100%), /* top-to-mid dark focus */
+      linear-gradient(to top, white 0%, rgba(255, 255, 255, 0) 70%),                        /* stronger bottom white smoke */
+      linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0) 100%),                    /* soft top light wash */
+      linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 50%, white 100%);          /* left-right white haze */
+  }
+
+  .bg-radial-lime-neutral {
+    background: 
+      radial-gradient(167.53% 167.53% at 50% 4.25%, #CFFF23 0%, rgba(116, 149, 0, 0.1) 100%), /* lime tone */
+      linear-gradient(to top, white 0%, rgba(255, 255, 255, 0) 70%),                         /* refined bottom smoke */
+      linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0) 100%),                     /* soft top fade */
+      linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 50%, white 100%);           /* horizontal soft edges */
+  }
 }
